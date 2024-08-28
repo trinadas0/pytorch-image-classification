@@ -13,7 +13,7 @@ This project shows how to build a simple Convolutional Neural Network (CNN) to c
 
 ### 1. Clone the Repository
 
-If you haven't already cloned the repository, do so:
+If you haven't already cloned the repository:
 
 ```bash
 git clone https://github.com/trinadas0/pytorch-image-classification.git
@@ -22,7 +22,7 @@ cd image-classification
 
 ### 2. Run the Script
 
-You can run the script by executing the following command in your terminal:
+You can run the script by executing this command in your terminal:
 
 ```bash
 python main.py
@@ -52,6 +52,4 @@ Accuracy of the network on the 10000 test images: 57.24%
 
 ## Acknowledgments
 
-This project is based on the PyTorch CIFAR-10 tutorial: [CIFAR-10 Tutorial](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html).
-
-The CIFAR-10 dataset used in this project was created by the University of Toronto. Special thanks to them for providing this valuable resource to the machine learning community.
+This project is based on the PyTorch CIFAR-10 tutorial: [CIFAR-10 Tutorial](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html). The CIFAR-10 dataset used in this project was created by the University of Toronto. 
